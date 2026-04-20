@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: IBM Plex Serif;
+    background-image: url('https://avatars.mds.yandex.net/get-mpic/5236119/img_id5033249063759034496.jpeg/orig');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: #109c58;
+    font-weight:400 ;
+}
+p{
+    color: #109c58;
+    font-weight:400 ;
+}
